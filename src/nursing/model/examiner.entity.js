@@ -1,7 +1,6 @@
 /**
  * @fileoverview Este archivo define la entidad Examiner para el módulo de enfermería.
  * @summary Proporciona una clase para modelar un examinador, con campos para el ID del examinador, el nombre, el apellido y el identificador nacional del proveedor.
- * @author Rodrigo Adrián López Huamán
  */
 
 export class Examiner {
