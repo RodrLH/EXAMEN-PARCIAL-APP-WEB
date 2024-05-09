@@ -11,12 +11,6 @@ Esta aplicación es una plataforma de backend desarrollada para el Hartford Inst
 - Uso del Mini Mental State Examination (MMSE) para la evaluación cognitiva.
 - Funcionalidad para realizar evaluaciones de forma rutinaria, sistemática y exhaustiva.
 
-## Autor
-
-### Rodrigo Adrián López Huamán
-- Código: U202212338
-- Curso: Aplicaciones Web
-- Sección: WX56
 
 ## Configuración del Proyecto
 
