@@ -1,7 +1,6 @@
 /**
  * @fileoverview Este archivo define la configuración de internacionalización (i18n) para la aplicación Vue.
  * @summary Configura y exporta una instancia de vue-i18n con los mensajes de localización en inglés y español.
- * @author Rodrigo Adrián López Huamán
  */
 
 import en from './locales/en.json';
