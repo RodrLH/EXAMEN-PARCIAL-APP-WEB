@@ -1,7 +1,6 @@
 /**
  * @fileoverview Este archivo define el servicio de API para el módulo de enfermería.
  * @summary Proporciona funciones para realizar solicitudes HTTP a los endpoints relacionados con los examinadores y los exámenes de estado mental.
- * @author Rodrigo Adrián López Huamán
  */
 
 import api from '../../shared/api.service';
