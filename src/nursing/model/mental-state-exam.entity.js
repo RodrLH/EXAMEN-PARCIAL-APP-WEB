@@ -1,7 +1,6 @@
 /**
  * @fileoverview Este archivo define la entidad MentalStateExam para el módulo de enfermería.
  * @summary Proporciona una clase para modelar un examen de estado mental, con campos para el ID del examen, el ID del paciente, el ID del examinador, la fecha del examen y las puntuaciones de varias categorías del examen.
- * @author Rodrigo Adrián López Huamán
  */
 
 export class MentalStateExam{
