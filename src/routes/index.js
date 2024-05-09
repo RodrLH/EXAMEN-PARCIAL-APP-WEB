@@ -1,7 +1,6 @@
 /**
  * @fileoverview Este archivo define las rutas para la aplicación Vue.
  * @summary Proporciona la configuración de las rutas para la aplicación Vue, incluyendo la página de inicio, la página de rendimiento del examinador y la página de error 404.
- * @author Rodrigo Adrián López Huamán
  */
 
 import { createRouter, createWebHistory } from 'vue-router';
