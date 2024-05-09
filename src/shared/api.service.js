@@ -1,7 +1,6 @@
 /**
  * @fileoverview Este archivo define el servicio de API para la aplicación.
  * @summary Proporciona una instancia de axios preconfigurada con la URL base y los headers por defecto para realizar solicitudes HTTP.
- * @author Rodrigo Adrián López Huamán
  */
 
 import axios from 'axios';
