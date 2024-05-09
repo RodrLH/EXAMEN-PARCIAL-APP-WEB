@@ -1,7 +1,6 @@
 /**
  * @fileoverview Este archivo es el punto de entrada principal de la aplicación Vue.
  * @summary Configura e inicia la aplicación Vue, incluyendo la configuración de i18n, PrimeVue y el router.
- * @author Rodrigo Adrián López Huamán
  */
 
 import { createApp } from 'vue'
